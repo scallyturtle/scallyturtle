@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @scallyturtle
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React js, Redux, Angular 2+
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - rnnn161@gmail.com
